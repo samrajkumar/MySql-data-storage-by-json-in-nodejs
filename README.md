@@ -1,7 +1,7 @@
 # MySql-data-storage-by-json-in-nodejs
 
-Config your database on server.js file
+1)Config your database on server.js file
 
-Install required npm package like mysql...
+2)Install required npm package like mysql...
 
-Create a database with required table and column name
+3)Create a database with required table and column name.
